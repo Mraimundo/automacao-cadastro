@@ -81,8 +81,8 @@ pip install pyautogui pandas openpyxl
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/python-automacao-cadastro.git
-cd python-automacao-cadastro
+git clone https://github.com/Mraimundo/automacao-cadastro.git
+cd automacao-cadastro
 ```
 
 ---
